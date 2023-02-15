@@ -72,7 +72,7 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 Go back to your repository on GitHub to see if the **merge** happened or if there was a **merge conflict**.
 ![Successful Push](https://www.w3schools.com/git/img_github_merged.png)
 
-##Webstorm
+## Webstorm
 1. Go to [JetBrains](https://www.jetbrains.com) and create an account
 2. Apply for a student license to Webstorm
 3. Wait for a while for JetBrains to email you back
@@ -86,7 +86,10 @@ Go back to your repository on GitHub to see if the **merge** happened or if ther
 ![User Interface](https://github.com/cc756/A03/blob/main/imageFolder/Authorize.png)
 
 9. Once authorized **clone** the repostiory you want
+
 ![User Interface](https://github.com/cc756/A03/blob/main/imageFolder/Clone.png)
+
+10. Continue to be unable to understand Webstorm in time for you to complete this project and go to bed so submit after this point.
 
 ## Glossary
 **Branch**: a new/separate version of the main repository. Allows to developers to edit the code without effecting the main branch, allowwing for mulititasking among the teams.
