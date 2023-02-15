@@ -72,8 +72,21 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 Go back to your repository on GitHub to see if the **merge** happened or if there was a **merge conflict**.
 ![Successful Push](https://www.w3schools.com/git/img_github_merged.png)
 
+##Webstorm
+1. Go to [JetBrains](https://www.jetbrains.com) and create an account
+2. Apply for a student license to Webstorm
+3. Wait for a while for JetBrains to email you back
+4. Use the link in the email to activate your license
+5. Download the standalone Webstorm or the JetBrains' Toolbox App and then download Webstorm within that
+6. Open up Webstorm and be greeted by this great interface.
+![User Interface](https://github.com/cc756/A03/blob/main/imageFolder/Click%20VCS.png)
+7. Realize around this point you don't know what to do anymore
+8. Authorize your GitHub account in Webstorm
 
+![User Interface](https://github.com/cc756/A03/blob/main/imageFolder/Authorize.png)
 
+9. Once authorized **clone** the repostiory you want
+![User Interface](https://github.com/cc756/A03/blob/main/imageFolder/Clone.png)
 
 ## Glossary
 **Branch**: a new/separate version of the main repository. Allows to developers to edit the code without effecting the main branch, allowwing for mulititasking among the teams.
@@ -104,7 +117,7 @@ Go back to your repository on GitHub to see if the **merge** happened or if ther
 <details><summary>Click for references</summary> 
 <p>
   
-  - [Jet Brains](https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html)
+  - [Jet Brains](https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html) was going to use this more but ran out of time before I could get to it
   - [GitHub Docs](https://docs.github.com/en)
   - [W3 Schools Git Tutorial](https://www.w3schools.com/git/)
   - Past classes
